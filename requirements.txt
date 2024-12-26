@@ -3,3 +3,5 @@ pyautogui
 pyperclip
 pyyaml
 opencv-python
+sympy
+xpinyin
